@@ -4,3 +4,6 @@ $(document).ready(function () {
         $('.top-nav').toggleClass('open');
     });
 });
+
+
+console.log('HELLO')
